@@ -16,7 +16,7 @@ Time spent: **2** hours spent in total
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='demoRandompetsRecyclerview.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='demoPetRecyclerview.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Kap**
 
